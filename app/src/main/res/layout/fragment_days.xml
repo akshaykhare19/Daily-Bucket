@@ -48,6 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:contentDescription="@string/add_item"
+        android:src="@drawable/ic_info"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent"/>
 
