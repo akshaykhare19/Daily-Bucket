@@ -9,4 +9,5 @@
     <string name="yesterday">YESTERDAY</string>
     <string name="tomorrow">TOMORROW</string>
     <string name="today">TODAY</string>
+    <string name="mandatory_field_error">Field is mandatory!!</string>
 </resources>
